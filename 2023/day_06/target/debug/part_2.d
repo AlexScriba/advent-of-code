@@ -1,0 +1,1 @@
+/Users/alexscriba/Documents/Programming/Practice/AdventOfCode/2023/day_06/target/debug/part_2: /Users/alexscriba/Documents/Programming/Practice/AdventOfCode/2023/day_06/src/bin/part_1.rs /Users/alexscriba/Documents/Programming/Practice/AdventOfCode/2023/day_06/src/bin/part_2.rs
